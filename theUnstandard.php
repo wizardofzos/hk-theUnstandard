@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: hk theUnstandard
-Plugin URI: http://weblog.kuipersite.nl
+Plugin URI: http://github.com/wizardofzos/hk-theUnstandard/blob/master/theUnstandardPlugin-0.3.zip
 Description: This plugin auto adds lead and secondary image custom fields if you add images to the post
-Version: 0.4
+Version: 0.3
 Author: Henri Kuiper
 Author URI: http://twitter.com/henrikuiper
 */
